@@ -99,25 +99,9 @@ This strategy is **market-neutral** — it aims to profit regardless of overall 
 
 ---
 
-## 🚀 Run the Code
+## 🚀 Use the Code
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/pairs-trading-project.git
-cd pairs-trading-project
-```
-
-### 2. Create virtual environment & install dependencies
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
-
-### 3. Run the strategy
-```bash
-python main.py
-```
+Feel free to use this code and repurpose it however you would like (hopefully you can improve it too). Enjoy!
 
 ---
 
