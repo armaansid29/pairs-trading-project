@@ -66,7 +66,7 @@ This strategy is **market-neutral** — it aims to profit regardless of overall 
 
 ## 📈 Results & Takeaways
 
-- The strategy effectively identified mean-reverting opportunities between GOOG and GOOGL.
+- The strategy effectively identified mean-reverting opportunities between KO and PEP.
 - **Cointegration p-value** confirmed statistical validity for pairs trading.
 - Simulated trades demonstrated:
   - Positive cumulative return
