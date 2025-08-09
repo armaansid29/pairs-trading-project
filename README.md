@@ -35,7 +35,7 @@ This strategy is **market-neutral** — it aims to profit regardless of overall 
 
 ### 1. **Data Collection**
 - Pulled daily historical stock data using the `yfinance` API:
-- Example pairs: PEP vs. KO
+- Example pairs: APPL vs. MSFT
 
 ### 2. **Data Preprocessing**
 - Aligned date indices
